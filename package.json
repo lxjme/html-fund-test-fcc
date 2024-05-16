@@ -1,0 +1,14 @@
+{
+  "name": "html-fund-me-fcc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "light <light@google.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "3.2.5"
+  },
+  "dependencies": {
+    "@metamask/detect-provider": "^2.0.0",
+    "@metamask/sdk": "^0.20.3"
+  }
+}
